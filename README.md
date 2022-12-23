@@ -16,3 +16,5 @@ const spotify_client_secret = '';
 ```
 
 To start the server, install node.js and run `node index.js` in the root folder. 
+
+You can invite the bot to your server using the same link you used to generate the Discord bot token.
